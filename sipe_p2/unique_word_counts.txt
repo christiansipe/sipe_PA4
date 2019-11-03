@@ -1,0 +1,5 @@
+awesome: 2
+problem: 2
+cool: 3
+shoot: 1
+nice: 2
